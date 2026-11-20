@@ -10,7 +10,6 @@
 
 **An AI-powered clinical diagnostic reasoning assistant using Retrieval-Augmented Generation (RAG)**
 
-
 </div>
 
 ---
