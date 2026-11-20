@@ -10,7 +10,6 @@
 
 **An AI-powered clinical diagnostic reasoning assistant using Retrieval-Augmented Generation (RAG)**
 
-[📖 Read the Article](https://medium.com/@maad78150/rag-for-diagnostic-reasoning-for-clinical-notes-67ab0ded38ad) · [🐛 Report Bug](https://github.com/maad328/Rag-for-diagnostic-reasoning/issues) · [✨ Request Feature](https://github.com/maad328/Rag-for-diagnostic-reasoning/issues)
 
 </div>
 
